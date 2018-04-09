@@ -2,8 +2,8 @@ body {
 background-image: url('smoke.gif');
 background-size: cover;
 }
-pre {
-color: white;
+#dingo {
+	color: white;
 }
 p {
 color: white;
@@ -11,7 +11,15 @@ color: white;
 marquee {
 color: white;
 }
-iframe {
-	padding-left: 550px;
-	padding-top: 100px;
+a {
+	color: white;
+}
+a:visited {
+	color: white;
+}
+a:hover {
+	color: red;
+}
+div {
+	display: inline;
 }
