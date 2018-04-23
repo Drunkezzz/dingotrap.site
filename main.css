@@ -14,8 +14,14 @@ color: white;
 a {
 	color: white;
 }
-a:visited {
+h1 {
 	color: white;
+}
+a {
+	color: white;
+}
+a:visited {
+	color: black;
 }
 a:hover {
 	color: red;
